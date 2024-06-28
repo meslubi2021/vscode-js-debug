@@ -77,8 +77,8 @@
     "source-map-support": "^0.5.21",
     "split2": "^4.2.0",
     "to-absolute-glob": "^2.0.2",
-    "vscode-tas-client": "^0.1.63",
-    "ws": "^8.14.2"
+    "vscode-tas-client": "^0.1.84",
+    "ws": "^8.17.1"
   },
   "prettier": {
     "trailingComma": "all",
@@ -135,10 +135,10 @@
     "eslint": "^8.52.0",
     "eslint-plugin-header": "^3.1.1",
     "eslint-plugin-react": "^7.33.2",
-    "express": "^4.17.3",
+    "express": "^4.19.2",
     "glob": "^7.2.0",
-    "gulp": "^4.0.2",
-    "gulp-cli": "^2.3.0",
+    "gulp": "^5.0.0",
+    "gulp-cli": "^3.0.0",
     "gulp-filter": "^7.0.0",
     "gulp-rename": "^2.0.0",
     "gulp-util": "^3.0.8",
